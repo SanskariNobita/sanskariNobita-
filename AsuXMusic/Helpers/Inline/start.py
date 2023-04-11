@@ -30,7 +30,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/AnonymousR1025/AsuXMusic"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://t.me/ABOUT_NOBITA_XD"
                 )
             ],
         ]
@@ -62,7 +62,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/KingAbishnoi/AsuXMusic"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://t.me/ABOUT_NOBITA_XD"
                 ),
             ],
         ]
